@@ -13,7 +13,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-pip install matplotlib
 
 # Load the dataset
 data = pd.read_csv('/content/Customer Purchasing Behaviors.csv')
