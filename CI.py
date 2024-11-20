@@ -8,7 +8,7 @@ Original file is located at
 
 # **Data Collection & Preprocessing**
 """
-
+pip install matplotlib
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
